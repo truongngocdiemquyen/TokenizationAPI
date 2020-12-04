@@ -1,0 +1,2 @@
+list_language_supported = ['en', 'ko', 'id', 'ms', 'es', 'pt', 'sv', 'hi', 'bn', 'de', 'vi', 'th', 'zh_cn', 'zh_tw', 'ja', 'ar', 'fr', 'ru']
+SPACE_SEPARATED_LANGUAGES = ['en', 'id', 'ms', 'es', 'pt', 'sv', 'hi', 'bn', 'de', 'ru', 'fr']

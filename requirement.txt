@@ -1,0 +1,7 @@
+tornado==5.1.1
+pyvi==0.1
+pythainlp==2.2.4
+jieba==0.42.1
+PyArabic==0.6.10
+mecab-python3==1.0.1
+chardet==3.0.4
